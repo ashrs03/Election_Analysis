@@ -5,11 +5,12 @@
 Seth, a Colorado Board of Elections employee delegated a task to perform analysis and audit of election data. 
 
 The initial analysis required to on the data included delivering information by writing and running a python script to identify following for the board: 
-    - Total number of votes cast
-    - A complete list of candidates who received votes
-    - Total number of votes each candidate received
-    - Percentage of votes each candidate won
-    - The winner of the election based on popular vote
+
+       - Total number of votes cast
+       - A complete list of candidates who received votes
+       - Total number of votes each candidate received
+       - Percentage of votes each candidate won
+       - The winner of the election based on popular vote
 
 In addition to this further analysis was requested to fetch: 
 
