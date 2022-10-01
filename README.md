@@ -29,9 +29,10 @@ The analysis of the data showed following results:
 Total of 369,711 votes were cast in the election.
 
 The candidates were: 
-    1. Charles Casper Stockham
-    2. Diana DeGette
-    3. Raymon Anthony Doane
+
+       1. Charles Casper Stockham
+       2. Diana DeGette
+       3. Raymon Anthony Doane
 
 Largest County Turnout: Denver
 
